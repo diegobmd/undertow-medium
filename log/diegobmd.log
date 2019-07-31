@@ -1,0 +1,4 @@
+INFO  | 2019-07-31 13:14:32 | [main] module.ApplicationModule (ApplicationModule.java:25) - {} - Application configured
+INFO  | 2019-07-31 13:14:32 | [main] diegobmd.MediumServer (MediumServer.java:41) - {} - Server start /0:0:0:0:0:0:0:0:8080
+INFO  | 2019-07-31 13:16:07 | [main] module.ApplicationModule (ApplicationModule.java:25) - {} - Application configured
+INFO  | 2019-07-31 13:16:07 | [main] diegobmd.MediumServer (MediumServer.java:44) - {} - Server start /0:0:0:0:0:0:0:0:8080 in 483ms
